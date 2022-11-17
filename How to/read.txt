@@ -1,0 +1,21 @@
+for front end 
+
+1)install npm in path (frontEnd\offersapi\src)
+2)make sure u have created the jwt token created.and put inside headers of target file and index.js
+3)Go to sign up souted and create ur jwt token
+4)optional, make sure the fetching port in front-end is matched with express port INCASE sorting data 
+ is not shown or u changed the port number in index.js file and target file 
+5)optional, if u start the frond server first before the back-end server, refresh the browser page
+to load the data,else it does not fetch the data
+
+and  fianlly npm start
+
+
+
+for back-end
+
+install npm in path (backendFile\src)
+and  fianlly npm start
+
+
+
